@@ -20,13 +20,11 @@ body{
 
     font-family: var(--mainFont);
 }
-.contaiener{
-width:calc(100% - 120px);
-margin:auto ;
-justify-content: space-between;
 
+.container {
+    width: calc(100% - 120px);
+    margin: auto;
 }
-
 
 
 .row{
